@@ -1,3 +1,6 @@
+# RoutinContext problem with quarkus graphql extension
+In a multitenant environment the injected RoutingContext works when used with REST Endpoint but doesn't works when used with GraphQL Endpoint
+
 # routing-context-graphql project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
